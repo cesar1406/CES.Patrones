@@ -1,16 +1,16 @@
 # Forja
-#### Asignatura: *Ingeniería Web: Visión General*
-#### [Máster en Ingeniería Web por la U.P.M.](http://miw.etsisi.upm.es)
+#### Estudio de patrones
+#### [Inclyto material del curso de Máster en Ingeniería Web dictado por la U.P.M.](http://miw.etsisi.upm.es)
 
-### Tecnologías necesarias
+### Tecnologías necesarias/incluidas
 * Java
 * Maven
 * Eclipse
 * GitHub
 
 ### Descripción
-Este proyecto pretende ser una plantilla maven para crear un proyecto
+Proyecto dedicado al estudio de patrones que se construye sobre una plantilla maven(que da la U.P.M. en su curso) para crear un proyecto mediante los pasos:
 1.- Descomprimir en la carpeta de trabajo
-1.- Editar el pom.xml y cambiarle el nombre del proyecto
-1.- Desde Eclipse, importar el proyecto como un proyecto de maven existente
+2.- Editar el pom.xml y cambiarle el nombre del proyecto
+3.- Desde Eclipse, importar el proyecto como un proyecto de maven existente
 
