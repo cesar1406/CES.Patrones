@@ -1,0 +1,24 @@
+package compositeTest;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class EmpresasTest {
+
+    @Test
+    public void testAgregarVehiculo() {
+        fail("Not yet implemented");
+    }
+
+    @Test
+    public void testCalculoMantenimiento() {
+        fail("Not yet implemented");
+    }
+
+    @Test
+    public void testAgregaFilial() {
+        fail("Not yet implemented");
+    }
+
+}
