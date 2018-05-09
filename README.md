@@ -1,6 +1,6 @@
 # Forja
 #### Estudio de patrones
-#### [Inclyto material del curso de Máster en Ingeniería Web dictado por la U.P.M.](http://miw.etsisi.upm.es)
+#### [Incluyo material del curso de Máster en Ingeniería Web dictado por la U.P.M.](http://miw.etsisi.upm.es)
 
 ### Tecnologías necesarias/incluidas
 * Java
